@@ -7,13 +7,16 @@
 
 ## Slides
 
-- <a href="https://guerreroda.github.io/nwcst_intro/session_1.html" target="_blank">Session 1 - Introduction to python</a>
-- Session 2
-- Session 3
-- Session 4
+- <a href="https://guerreroda.github.io/nwcst_intro/session_1.html" target="_blank">Session 1 (part a) - Python Fundamentals</a>
+- Session 1 (part b) - R Fundamentals
+- Session 2 (part a) - Web Scraping
+- Session 2 (part b) - Satellite Data and Google Data
+- Session 3 - Variable Selection
+- Session 4 - Theory
+- Session 5 - The Nowcasting Tool
 
 ## Notebooks
 - Session 1
 
-# Activity Files
+# Files
 - Session 1
