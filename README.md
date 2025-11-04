@@ -7,7 +7,7 @@
 
 ## Slides
 
-- <a href="https://guerreroda.github.io/nwcst_intro/session_1.html" target="_blank">Session 1 (part a) - Python Fundamentals</a>
+- <a href="https://guerreroda.github.io/nwcst_intro/slides/session_1.html" target="_blank">Session 1 (part a) - Python Fundamentals</a>
 - Session 1 (part b) - R Fundamentals
 - Session 2 (part a) - Web Scraping
 - Session 2 (part b) - Satellite Data and Google Data
