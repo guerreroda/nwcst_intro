@@ -2,7 +2,7 @@
 
 ## Slides
 
-- [Session 1 -Introduction to python](https://guerreroda.github.io/nwcst_intro/session_1.html)
+- [Session 1 - Introduction to python](https://guerreroda.github.io/nwcst_intro/session_1.html)
 - Session 2
 - Session 3
 - Session 4
