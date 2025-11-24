@@ -9,7 +9,7 @@
 - Python installation: <a href="https://www.youtube.com/watch?v=mg6cMkz9Q0c" target="_blank">See here</a>
 - R installation: <a href="http://www.youtube.com/watch?v=mxNrU902uyc" target="_blank">See here</a>
 
-<a href="https://guerreroda.github.io/nwcst_intro/syllabus.pdf" target="_blank">Syllabus</a>
+<a href="https://github.com/guerreroda/nwcst_intro/blob/a83ea52cf89623b4bfdd55414a401f5c6d15caab/syllabus.pdf" target="_blank">Syllabus</a>
 
 ## Slides
 
@@ -23,8 +23,8 @@
 
 ## Notebooks
 - Session 1:
-  - <a href="https://guerreroda.github.io/nwcst_intro/notebooks/notebook_1.ipynb" target="_blank">Notebook 1</a>
-  - <a href="https://guerreroda.github.io/nwcst_intro/notebooks/notebook_1_files" target="_blank">Notebook 1 Files</a>
+  - <a href="https://github.com/guerreroda/nwcst_intro/blob/a83ea52cf89623b4bfdd55414a401f5c6d15caab/notebooks/notebook_1.ipynb" target="_blank">Notebook 1</a>
+  - <a href="https://github.com/guerreroda/nwcst_intro/tree/main/notebooks/notebook_1_files" target="_blank">Notebook 1 Files</a>
 - Session 2:
-  - <a href="https://guerreroda.github.io/nwcst_intro/notebooks/" target="_blank">Notebook 2</a>
-  - <a href="https://guerreroda.github.io/nwcst_intro/notebooks/" target="_blank">Notebook 2 Files</a>
+  - <a href="https://github.com/guerreroda/nwcst_intro/blob/a83ea52cf89623b4bfdd55414a401f5c6d15caab/notebooks/notebook_2.ipynb" target="_blank">Notebook 2</a>
+  - <a href="https://github.com/guerreroda/nwcst_intro/tree/main/notebooks/" target="_blank">Notebook 2 Files</a>
