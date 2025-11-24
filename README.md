@@ -24,7 +24,7 @@
 ## Notebooks
 - Session 1:
   - <a href="https://github.com/guerreroda/nwcst_intro/blob/a83ea52cf89623b4bfdd55414a401f5c6d15caab/notebooks/notebook_1.ipynb" target="_blank">Notebook 1</a>
-  - <a href="https://github.com/guerreroda/nwcst_intro/tree/main/notebooks/notebook_1_files" target="_blank">Notebook 1 Files</a>
+  - <a href="https://github.com/guerreroda/nwcst_intro/tree/149322fcbb360f0a7199dbce67dd0b6581f7c752/notebooks/notebook_1_files" target="_blank">Notebook 1 Files</a>
 - Session 2:
-  - <a href="https://github.com/guerreroda/nwcst_intro/blob/a83ea52cf89623b4bfdd55414a401f5c6d15caab/notebooks/notebook_2.ipynb" target="_blank">Notebook 2</a>
-  - <a href="https://github.com/guerreroda/nwcst_intro/tree/main/notebooks/" target="_blank">Notebook 2 Files</a>
+  - <a href="https://github.com/guerreroda/nwcst_intro/blob/149322fcbb360f0a7199dbce67dd0b6581f7c752/notebooks/notebook_2.ipynb" target="_blank">Notebook 2</a>
+  - <a href="https://github.com/guerreroda/nwcst_intro/tree/149322fcbb360f0a7199dbce67dd0b6581f7c752/notebooks/notebook_2_files" target="_blank">Notebook 2 Files</a>
