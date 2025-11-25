@@ -30,4 +30,4 @@
   - <a href="https://github.com/guerreroda/nwcst_intro/tree/149322fcbb360f0a7199dbce67dd0b6581f7c752/notebooks/notebook_2_files" target="_blank">Notebook 2 Files</a>
 - Session 3:
   - <a href="https://github.com/guerreroda/nwcst_intro/blob/7ea3ba0029fd0022c407e03ef30c930d4dddf374/notebooks/notebook_3.ipynb" target="_blank">Notebook 3</a>
-  - <a href="https://github.com/guerreroda/nwcst_intro/tree/7ea3ba0029fd0022c407e03ef30c930d4dddf374/notebooks/notebook_3_files" target="_blank">Notebook 2 Files</a>
+  - <a href="https://github.com/guerreroda/nwcst_intro/tree/7ea3ba0029fd0022c407e03ef30c930d4dddf374/notebooks/notebook_3_files" target="_blank">Notebook 3 Files</a>
