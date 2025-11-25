@@ -14,7 +14,7 @@
 ## Slides
 
 - <a href="https://guerreroda.github.io/nwcst_intro/slides/session_1.html" target="_blank">Session 1 (part a) - Python Fundamentals</a>
-- Session 1 (part b) - R Fundamentals
+- <a href="https://guerreroda.github.io/nwcst_intro/slides/session_1b.html" target="_blank">Session 1 (part a) - R Fundamentals</a>
 - <a href="https://guerreroda.github.io/nwcst_intro/slides/session_2.html" target="_blank">Session 2 (part a) - Web Scraping</a>
 - <a href="https://guerreroda.github.io/nwcst_intro/slides/session_2_ntl.html" target="_blank">Session 2 (part b) - Satellite Data and Google Data</a>
 - Session 3 - Variable Selection
@@ -25,6 +25,10 @@
 - Session 1:
   - <a href="https://github.com/guerreroda/nwcst_intro/blob/a83ea52cf89623b4bfdd55414a401f5c6d15caab/notebooks/notebook_1.ipynb" target="_blank">Notebook 1</a>
   - <a href="https://github.com/guerreroda/nwcst_intro/tree/149322fcbb360f0a7199dbce67dd0b6581f7c752/notebooks/notebook_1_files" target="_blank">Notebook 1 Files</a>
+- Session 1b:
+  - <a href="https://github.com/guerreroda/nwcst_intro/blob/d8d045b4bcbacb6ccc502891ef93dbb944dc42b8/notebooks/Session%201b%20-%20Intro%20to%20R.R" target="_blank">R File 1</a>
+  - <a href="https://github.com/guerreroda/nwcst_intro/blob/d8d045b4bcbacb6ccc502891ef93dbb944dc42b8/notebooks/Session%201b%20-%20Intro%20to%20R%20-%20Activity.R" target="_blank">R File 1 Solution</a>
+  - <a href="https://github.com/guerreroda/nwcst_intro/tree/d8d045b4bcbacb6ccc502891ef93dbb944dc42b8/notebooks/notebook_1b_files" target="_blank">Session 1b Files</a>
 - Session 2:
   - <a href="https://github.com/guerreroda/nwcst_intro/blob/149322fcbb360f0a7199dbce67dd0b6581f7c752/notebooks/notebook_2.ipynb" target="_blank">Notebook 2</a>
   - <a href="https://github.com/guerreroda/nwcst_intro/tree/149322fcbb360f0a7199dbce67dd0b6581f7c752/notebooks/notebook_2_files" target="_blank">Notebook 2 Files</a>
