@@ -17,7 +17,7 @@
 - <a href="https://guerreroda.github.io/nwcst_intro/slides/session_1b.html" target="_blank">Session 1 (part a) - R Fundamentals</a>
 - <a href="https://guerreroda.github.io/nwcst_intro/slides/session_2.html" target="_blank">Session 2 (part a) - Web Scraping</a>
 - <a href="https://guerreroda.github.io/nwcst_intro/slides/session_2_ntl.html" target="_blank">Session 2 (part b) - Satellite Data and Google Data</a>
-- Session 3 - Variable Selection
+- <a href="https://guerreroda.github.io/nwcst_intro/slides/session_3.html" target="_blank">Session 3 - Variable Selection and Estimation</a>
 - Session 4 - Theory
 - Session 5 - The Nowcasting Tool
 
