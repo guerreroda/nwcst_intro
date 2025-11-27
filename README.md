@@ -1,6 +1,5 @@
 # <a href="https://guerreroda.github.io/nwcst_intro">Introduction to Nowcasting</a>
 
-## Inter-American Development Bank
 
 **Facilitators**: Jose L. Saboin, Diego Guerrero, Angelo Mazzocca
 
