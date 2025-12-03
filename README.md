@@ -19,6 +19,7 @@
 - <a href="https://github.com/guerreroda/nwcst_intro/blob/41f3b4ac978633129d3808b740839b45f7e369f8/slides/session_3a.pdf" target="_blank">Session 3 (part a) - Nowcasting Real GDP Growth in The Bahamas</a>
 - <a href="https://guerreroda.github.io/nwcst_intro/slides/session_3b.html" target="_blank">Session 3 (part b) - Nowcasting Theory</a>
 - <a href="https://guerreroda.github.io/nwcst_intro/slides/session_3.html" target="_blank">Session 4 - Variable Selection and Estimation</a>
+- <a href="https://github.com/guerreroda/nwcst_intro/blob/d6f57c8a94d70a6e98dde9226d5ccaba935f954b/notebooks/notebook_4.ipynb" target="_blank">Session 5 - Multiple Models (Notebook only)</a>
 
 ## Notebooks
 - Session 1:
@@ -34,3 +35,6 @@
 - Session 4:
   - <a href="https://github.com/guerreroda/nwcst_intro/blob/7ea3ba0029fd0022c407e03ef30c930d4dddf374/notebooks/notebook_3.ipynb" target="_blank">Notebook 3</a>
   - <a href="https://github.com/guerreroda/nwcst_intro/tree/7ea3ba0029fd0022c407e03ef30c930d4dddf374/notebooks/notebook_3_files" target="_blank">Notebook 3 Files</a>
+- Session 5:
+  - <a href="https://github.com/guerreroda/nwcst_intro/blob/d6f57c8a94d70a6e98dde9226d5ccaba935f954b/notebooks/notebook_4.ipynb" target="_blank">Notebook 4</a>
+  - <a href="https://github.com/guerreroda/nwcst_intro/tree/d6f57c8a94d70a6e98dde9226d5ccaba935f954b/notebooks/notebook_4_files" target="_blank">Notebook 4 Files</a>
