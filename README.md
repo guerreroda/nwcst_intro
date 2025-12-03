@@ -16,9 +16,9 @@
 - <a href="https://guerreroda.github.io/nwcst_intro/slides/session_1b.html" target="_blank">Session 1 (part a) - R Fundamentals</a>
 - <a href="https://guerreroda.github.io/nwcst_intro/slides/session_2.html" target="_blank">Session 2 (part a) - Web Scraping</a>
 - <a href="https://guerreroda.github.io/nwcst_intro/slides/session_2_ntl.html" target="_blank">Session 2 (part b) - Satellite Data and Google Data</a>
-- <a href="https://guerreroda.github.io/nwcst_intro/slides/session_3.html" target="_blank">Session 3 - Variable Selection and Estimation</a>
-- Session 4 - Theory
-- Session 5 - The Nowcasting Tool
+- <a href="https://github.com/guerreroda/nwcst_intro/blob/41f3b4ac978633129d3808b740839b45f7e369f8/slides/session_3a.pdf" target="_blank">Session 3 (part a) - Nowcasting Real GDP Growth in The Bahamas</a>
+- <a href="https://github.com/guerreroda/nwcst_intro/blob/41f3b4ac978633129d3808b740839b45f7e369f8/slides/session_3a.pdf" target="_blank">Session 3 (part b) - Nowcasting Theory</a>
+- <a href="https://guerreroda.github.io/nwcst_intro/slides/session_4.html" target="_blank">Session 4 - Variable Selection and Estimation</a>
 
 ## Notebooks
 - Session 1:
@@ -31,6 +31,6 @@
 - Session 2:
   - <a href="https://github.com/guerreroda/nwcst_intro/blob/149322fcbb360f0a7199dbce67dd0b6581f7c752/notebooks/notebook_2.ipynb" target="_blank">Notebook 2</a>
   - <a href="https://github.com/guerreroda/nwcst_intro/tree/149322fcbb360f0a7199dbce67dd0b6581f7c752/notebooks/notebook_2_files" target="_blank">Notebook 2 Files</a>
-- Session 3:
+- Session 4:
   - <a href="https://github.com/guerreroda/nwcst_intro/blob/7ea3ba0029fd0022c407e03ef30c930d4dddf374/notebooks/notebook_3.ipynb" target="_blank">Notebook 3</a>
   - <a href="https://github.com/guerreroda/nwcst_intro/tree/7ea3ba0029fd0022c407e03ef30c930d4dddf374/notebooks/notebook_3_files" target="_blank">Notebook 3 Files</a>
