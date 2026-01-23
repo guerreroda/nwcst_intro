@@ -38,3 +38,6 @@
 - Session 5:
   - <a href="https://github.com/guerreroda/nwcst_intro/blob/d6f57c8a94d70a6e98dde9226d5ccaba935f954b/notebooks/notebook_4.ipynb" target="_blank">Notebook 4</a>
   - <a href="https://github.com/guerreroda/nwcst_intro/tree/d6f57c8a94d70a6e98dde9226d5ccaba935f954b/notebooks/notebook_4_files" target="_blank">Notebook 4 Files</a>
+
+
+  Download nightlights file here: <a href="https://www.dropbox.com/scl/fi/08y1l57h3h3lhc6c3gj9t/ntl_bahamas.csv?rlkey=1b8ne93m0snlokc1k8ym1jhpo&dl=0">Download</a>
